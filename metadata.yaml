@@ -1,0 +1,28 @@
+_repo: Uncle-Sam_45717
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45717-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Matthews, Albert
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '43426'
+    url: http://www.gutenberg.org/2009/agents/43426
+description: ''
+gutenberg_issued: '2014-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45717'
+  lccn: 08024727
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, American'
+- !lcsh 'Uncle Sam (Symbolic character)'
+- !lcc 'E151'
+title: Uncle Sam
+url: http://www.gutenberg.org/ebooks/45717
