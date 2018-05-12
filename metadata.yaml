@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43426'
     url: http://www.gutenberg.org/2009/agents/43426
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45717#Uncle-Sam
 gutenberg_issued: '2014-05-22'
 gutenberg_type: Text
 identifiers:
